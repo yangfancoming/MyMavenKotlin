@@ -3,6 +3,9 @@ package com.goat.kotlin.chapter141
 import org.junit.Test
 
 
+/**
+ * 三目运算符
+*/
 class A01{
 
     var x = 10
